@@ -11,7 +11,8 @@
 
 <h1> 
   Bem vindo! &nbsp; 
-  <img height="25" width="25" src="" />
+  <img height="25" width="25" src="https://static.cloud-boxloja.com/lojas/wyfyg/produtos/6ddcc295-ee36-4a7f-be1a-ebeb192bacd5.jpg" />
+  <img height="25" width="25" src="https://cdn-icons-png.flaticon.com/512/174/174836.png" />
 </h1>
 
 <br>
